@@ -1,0 +1,1 @@
+pack make(type, 0)
